@@ -1,0 +1,9 @@
+E:\my project\c#\MouseRec\MouseRec\bin\Debug\MouseRec.exe.config
+E:\my project\c#\MouseRec\MouseRec\bin\Debug\MouseRec.exe
+E:\my project\c#\MouseRec\MouseRec\bin\Debug\MouseRec.pdb
+E:\my project\c#\MouseRec\MouseRec\obj\Debug\MouseRec.csprojResolveAssemblyReference.cache
+E:\my project\c#\MouseRec\MouseRec\obj\Debug\MouseRec.Form1.resources
+E:\my project\c#\MouseRec\MouseRec\obj\Debug\MouseRec.Properties.Resources.resources
+E:\my project\c#\MouseRec\MouseRec\obj\Debug\MouseRec.csproj.GenerateResource.Cache
+E:\my project\c#\MouseRec\MouseRec\obj\Debug\MouseRec.exe
+E:\my project\c#\MouseRec\MouseRec\obj\Debug\MouseRec.pdb
